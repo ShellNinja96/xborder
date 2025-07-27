@@ -3,7 +3,7 @@ Active window border replacement for window managers.
 
 ## Usage
 ```sh
-git clone https://github.com/deter0/xborder
+git clone https://github.com/ShellNinja96/xborder
 cd xborder
 chmod +x xborders
 pip install -r requirements.txt
