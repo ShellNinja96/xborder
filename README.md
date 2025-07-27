@@ -3,11 +3,9 @@ Active window border replacement for window managers.
 
 ## Usage
 ```sh
-git clone https://github.com/ShellNinja96/xborder
-cd xborder
-chmod +x xborders
-pip install -r requirements.txt
-./xborders --help
+sudo git clone https://github.com/ShellNinja96/xborder /opt/xborder
+sudo chmod +x /opt/xborder/xborders
+sudo ln -s /opt/xborder/xborders /usr/local/bin/xborder
 ```
 ### Dependencies
 Make sure to install dependencies first!
