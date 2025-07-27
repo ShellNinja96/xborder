@@ -1,5 +1,6 @@
 # xborders
 Active window border replacement for window managers.
+Forked from main https://github.com/deter0/xborder 27.07.2025
 
 ## Usage
 ```sh
